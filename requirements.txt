@@ -1,0 +1,11 @@
+
+langchain 
+langchain-openai 
+openai 
+python-dotenv
+
+CODE: 
+...
+ python -m pip install langchain langchain-openai openai python-dotenv
+
+...
